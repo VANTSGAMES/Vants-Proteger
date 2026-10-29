@@ -1,0 +1,5 @@
+{
+  "webhookUrl": "",
+  "slowMs": 4000,
+  "timeoutMs": 15000
+}
